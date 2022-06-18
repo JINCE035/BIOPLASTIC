@@ -5,9 +5,4 @@ This helps in the building of a *Sustainable Environment.*
 
 
 
-
-​
-8
-![Led](https://github.com/JINCE035/BIOPLASTIC/tree/main/img/download.jpeg)
-9
-​
+![jj](https://github.com/JINCE035/BIOPLASTIC/blob/main/img/download.jpeg?raw=true)
